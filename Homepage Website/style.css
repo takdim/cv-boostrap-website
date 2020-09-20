@@ -8,6 +8,11 @@ a.navbar-brand{
 .custom-toggler{ 
     border-color: #212121; 
 } 
+
+#fsepti{
+    width: 265px;
+    height: 220px;
+}
 /* Setting the stroke to green using rgb values (0, 128, 0) */ 
   
 .custom-toggler{ 
